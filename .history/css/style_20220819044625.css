@@ -11,7 +11,7 @@
 :root{
 	--bg-color: #020312;
 	--text-color: #fff;
-	--main-color: #ebb34a;
+	--main-color: #eb4a4a;
 	--second-color: gray;
 	--other-color: #12141c;
 	--h1-font: 5.2rem;
@@ -71,7 +71,7 @@ section{
 	height: 100vh;
 	width: 100%;
 	position: relative;
-	background: url(../img/background.png);
+	background: url(../img/background.jpg);
 	background-size: cover;
 	background-position: center;
 	display: flex;
